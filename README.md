@@ -44,7 +44,7 @@ Le projet est piloté en Scrum avec des sprints d'une semaine. Le backlog et les
 
 ## Auteur
 
-**Votre Nom** — [LinkedIn](https://linkedin.com/in/votre-profil) · [GitHub](https://github.com/votre-pseudo)
+Nohayla Ait Ben Salah — [LinkedIn](https://www.linkedin.com/in/nohayla-ait-ben-salah-815361298/) · [GitHub](https://github.com/Nohayla10)
 
 ## Licence
 
