@@ -38,6 +38,8 @@ mini-jira/
 
 Le projet est piloté en Scrum avec des sprints d'une semaine. Le backlog et les sprints sont suivis dans Jira.
 
+![Jira project board for the Mini-Jira agile workflow, showing two sprints and a backlog panel. Sprint 1 lists project tickets with labels such as To Do and task numbers, while Sprint 2 and Backlog sections are organized in a light gray Jira interface with navigation, search, and Create buttons. Visible text includes Mini-Jira, Sprint 1, Sprint 2, Backlog, Search bar, Create, and To Do. The overall tone is organized, collaborative, and professional.](docs/jira/backlog.png)
+
 ## Installation
 
 À venir.
