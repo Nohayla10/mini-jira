@@ -52,7 +52,31 @@ Voir aussi le [modèle de données et l'API](docs/data-model.md).
 
 ## Installation
 
-À venir.
+### Prérequis
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- Git
+
+### Lancer le projet
+
+```bash
+git clone https://github.com/Nohayla10/mini-jira.git
+cd mini-jira
+docker compose up --build
+```
+
+| Service | URL |
+|---|---|
+| Client React | http://localhost:5173 |
+| API | http://localhost:5000/api/health |
+| MongoDB | localhost:27017 |
+
+### Commandes utiles
+
+```bash
+docker compose down        # arrêter
+docker compose down -v     # arrêter et supprimer la base de données
+```
 
 ## Auteur
 
