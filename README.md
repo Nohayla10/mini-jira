@@ -50,6 +50,23 @@ Le projet est piloté en Scrum avec des sprints d'une semaine. Le backlog et les
 
 Voir aussi le [modèle de données et l'API](docs/data-model.md).
 
+## Mockups
+
+UI prototype generated with Figma Make and refined manually: [View the interactive prototype](https://www.figma.com/make/lZ7BBhwpDQkPg3DNcRBje9/Mini-Jira-web-app-prototype?fullscreen=1&t=1WqaY3QNviSWl3hX-1&code-node-id=0-6)
+
+### Kanban board
+![Kanban board](docs/design/04-kanban.png)
+
+### Backlog and sprint planning
+![Backlog](docs/design/05-backlog.png)
+
+### Authentication and projects
+| Log in | Sign up | My projects |
+|---|---|---|
+| ![Log in](docs/design/01-login.png) | ![Sign up](docs/design/02-register.png) | ![Projects](docs/design/03-projects.png) |
+
+
+
 ## Installation
 
 ### Prérequis
